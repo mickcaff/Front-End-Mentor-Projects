@@ -6,7 +6,7 @@ https://www.frontendmentor.io/challenges
 #### Below are the git repositories for each of the Front-End-Mentor projects I have completed.
 
 - <a href="https://github.com/mickcaff/Front-End-Mentor-Challenge-09-Expenses-Chart-Component" target="__blank">09 - Expenses Chart Component</a>
-- <a href="https://github.com/mickcaff/Front-End-Mentor-Challenge-08-FAQ-Accordian-Card" target="__blank">08 - FAQ Accordian Card</a>
+- <a href="https://github.com/mickcaff/Front-End-Mentor-Challenge-08-FAQ-Accordian-Card" target="__blank">08 - FAQ Accordion Card</a>
 - <a href="https://github.com/mickcaff/Front-End-Mentor-Challenge-07-Dad-Joke-Generator" target="__blank">07 - Dad Joke Generator</a>
 - <a href="https://github.com/mickcaff/Front-End-Mentor-Challenge-06-Clipboard-Landing-Page" target="__blank">06 - Clipboard Landing Page</a>
 - <a href="https://github.com/mickcaff/Front-End-Mentor-Challenge-05-Testimonials-Grid-Section" target="__blank">05 - Testimonials Grid Section</a>
