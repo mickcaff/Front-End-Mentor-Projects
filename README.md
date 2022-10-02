@@ -3,7 +3,7 @@
 #### Front End Mentor is a platform to improve your front-end skills by building real projects.
 https://www.frontendmentor.io/challenges
 
-#### Below are the git repositories for each of the Front-End-Mentor projects I have completed. Each repository has a link to the live sites.
+#### Below are the git repositories for each of the Front-End-Mentor projects I have completed. Each repository has a link to the live site.
 
 - <a href="https://github.com/mickcaff/Front-End-Mentor-Challenge-09-Expenses-Chart-Component" target="__blank">09 - Expenses Chart Component</a>
 - <a href="https://github.com/mickcaff/Front-End-Mentor-Challenge-08-FAQ-Accordian-Card" target="__blank">08 - FAQ Accordion Card</a>
